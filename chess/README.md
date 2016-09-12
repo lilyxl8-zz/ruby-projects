@@ -7,8 +7,8 @@ Extremely concise chess code, for play in the command line. Virtually every elem
 
 ## Instructions
 
-- Clone repo locally and install gems
-- Run ruby play_chess.rb from the terminal while in the project directory
+- Clone repo locally and `bundle install`
+- Run `ruby play_chess.rb` from the terminal while in the project directory
 
 ## Object Oriented Implementation
 
